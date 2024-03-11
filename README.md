@@ -3,7 +3,12 @@
 ## Project Overview
 The ERP System with React project aims to create a simplified user interface for enterprise resource planning. The system comprises three main pages:
 ## Video Overview
-[Watch the project overview video here](https://drive.google.com/file/d/1BWZ70sVbxgh3Saln9hoKvKWzMHlPHoSG/view?usp=drive_link)
+[Watch the project overview video here](https://drive.google.com/file/d/1BWZ70sVbxgh3Saln9hoKvKWzMHlPHoSG/view?usp=drive_link) 
+
+[Watch the project responsive overview here](https://drive.google.com/file/d/1SPjWwGlJdressyK5H7dKc-jrF7JUEViP/view?usp=sharing)
+## Screenshot
+
+![Homepage](Screenshots/1.png)
 
 ### Dashboard
 - Provides a summary of key metrics or features.
